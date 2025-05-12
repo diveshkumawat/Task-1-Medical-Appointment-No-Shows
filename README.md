@@ -1,1 +1,2 @@
 # Task-1-Medical-Appointment-No-Shows
+I download medical appointment not show raw dataset from Kaggle. Then import .csv data in Excel and start cleaning the data like- removing duplicate/ null values, correct formats, replace short form of M/F to Male/Female and change scheduled day and appointment date to local Indian standard date/time zone and lastly change short form of Y/N to Yes/No in no_show category.
